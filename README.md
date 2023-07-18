@@ -8,7 +8,9 @@ How to run?
 ```
 git clone https://github.com/MMDYT/SharkBomber
 cd SharkBomber
-python SharkBomber
+python SharkBomber.py
++98**********
+Click enter
 ```
 
 <li> Telegram : @EX_EL </li>
