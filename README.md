@@ -3,7 +3,18 @@
 
 <li>Running on Windows, Termux, Linux </li>
 
-How to run?
+<h4> Install? </h4>
+
+```
+apt update
+apt upgrade
+pkg install python
+pip install urllib3
+pip install colorama
+```
+
+
+<h4> How to run? </h4>
 
 ```
 git clone https://github.com/MMDYT/SharkBomber
